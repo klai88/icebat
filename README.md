@@ -1,0 +1,1 @@
+This is a composite of python code for my blog posts. You can find my posts at theicebat.com
