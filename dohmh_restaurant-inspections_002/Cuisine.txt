@@ -1,0 +1,86 @@
+"CUISINECODE","CODEDESC",NEWCODE
+"02","African", 01
+"03","American", 03
+"05","Asian", 02
+"15","Cajun", 04
+"17","Caribbean", 04
+"20","Chinese", 02
+"30","Eastern European", 05
+"31","Egyptian", 01
+"35","French", 05
+"37","German", 05
+"38","Greek", 05
+"44","Indian", 01
+"45","Indonesian", 02
+"48","Italian", 05
+"49","Japanese", 02
+"50","Jewish/Kosher", 01
+"52","Korean", 02
+"53","Latin (Cuban, Dominican, Puerto Rican, South & Central American)", 04
+"54","Mediterranean", 05
+"55","Mexican", 04
+"56","Middle Eastern", 01
+"67","Russian", 01
+"76","Southwestern", 03
+"82","Thai", 02
+"99","Other", 01
+"01","Afghan", 01
+"04","Armenian", 01
+"06","Australian", 01
+"07","Bagels/Pretzels", 06
+"08","Bakery", 06
+"09","Bangladeshi", 01
+"10","Barbecue", 03
+"11","Basque", 05
+"12","Bottled beverages, including water, sodas, juices, etc.", 06
+"13","Brazilian", 04
+"14","Café/Coffee/Tea", 06
+"16","Californian", 03
+"18","Chicken", 03
+"19","Chilean", 04
+"21","Chinese/Cuban", 02
+"22","Chinese/Japanese", 02
+"23","Continental", 03
+"24","Creole", 05
+"25","Creole/Cajun",05 
+"26","Czech", 05
+"27","Delicatessen", 06
+"28","Vietnamese/Cambodian/Malaysia", 02
+"29","Donuts", 06
+"32","English", 05
+"33","Ethiopian", 01
+"34","Filipino", 02
+"36","Fruits/Vegetables", 06
+"39","Hamburgers", 03
+"40","Hawaiian", 03
+"41","Hotdogs", 06
+"42","Hotdogs/Pretzels", 06
+"43","Ice Cream, Gelato, Yogurt, Ices", 06
+"46","Iranian", 01
+"47","Irish", 05
+"51","Juice, Smoothies, Fruit Salads", 06
+"57","Moroccan", 01
+"58","Nuts/Confectionary", 06
+"59","Pakistani", 01
+"60","Pancakes/Waffles", 03
+"61","Peruvian", 04
+"62","Pizza", 06
+"63","Pizza/Italian", 06
+"64","Polish", 05
+"65","Polynesian", 02
+"66","Portuguese", 05
+"68","Salads", 06
+"69","Sandwiches", 06
+"70","Sandwiches/Salads/Mixed Buffet",06
+"71","Scandinavian", 05
+"72","Seafood", 03
+"73","Soul Food", 03
+"74","Soups", 06
+"75","Soups & Sandwiches", 06
+"77","Spanish", 05
+"78","Steak", 03
+"80","Tapas", 03
+"81","Tex-Mex", 03
+"83","Turkish", 01
+"84","Vegetarian", 03
+"00","Not Listed/Not Applicable", 01

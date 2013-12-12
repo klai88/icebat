@@ -1,0 +1,175 @@
+,STARTDATE,ENDDATE,CRITICALFLAG,VIOLCODE,VIOLATIONDESC
+4,7/1/08 0:00,8/1/09 0:00,Y,01A,"Current valid permit, registration or other authorization to operate establishment not available.  Violations points are not assessed for Smoke Free Air Act, trans fat, calorie posting or permit and poster violations."
+9,7/1/08 0:00,8/1/09 0:00,Y,01B,"Document issued by the Board, Commissioner or Department unlawfully reproduced or altered."
+14,7/1/08 0:00,8/1/09 0:00,Y,01C,"Notice of the department or Board mutilated, obstructed, or removed."
+19,7/1/08 0:00,8/1/09 0:00,Y,01D,"Failure to comply with an Order of the Board, Commissioner or Department."
+24,7/1/08 0:00,8/1/09 0:00,Y,01E,Duties of an officer of the Department interfered with or obstructed.
+29,7/1/08 0:00,8/1/09 0:00,Y,01F,Failure to report occurrences of suspected food borne illness to the Department.
+30,1/1/01 0:00,3/23/03 0:00,Y,01G,"Failure to comply with an Order of the Board, Commissioner or Department."
+31,1/1/01 0:00,3/23/03 0:00,Y,01H,Duties of an officer of the Department interfered with or obstructed.
+32,1/1/01 0:00,3/23/03 0:00,Y,01I," Nuisance created or allowed to exist. Facility not free from unsafe, hazardous, offensive or annoying condition."
+39,7/26/10 0:00,12/31/99 0:00,Y,02A,Food not cooked to required minimum temperature.
+46,7/26/10 0:00,12/31/99 0:00,Y,02B,Hot food item not held at or above 140º F.
+53,7/26/10 0:00,12/31/99 0:00,Y,02C,Hot food item that has been cooked and refrigerated is being held for service without first being reheated to 1 65º F or above within 2 hours.
+60,7/26/10 0:00,12/31/99 0:00,Y,02D,"Precooked potentially hazardous food from commercial food processing establishment that is supposed to be heated, but is not heated to 140º F within 2 hours."
+67,7/26/10 0:00,12/31/99 0:00,Y,02E,"Whole frozen poultry or poultry breasts, other than a single portion, is being cooked frozen or partially thawed."
+74,7/26/10 0:00,12/31/99 0:00,Y,02F,"Meat, fish or molluscan shellfish served raw or undercooked without prior notification to customer."
+80,7/26/10 0:00,12/31/99 0:00,Y,02G,Cold food item held above 41º F (smoked fish and reduced oxygen packaged foods above 38 ºF) except during necessary preparation.
+86,7/26/10 0:00,12/31/99 0:00,Y,02H,"Food not cooled by an approved method whereby the internal product temperature is reduced from 140º F to 70º F or less within 2 hours, and from 70º F to 41º F or less within 4 additional hours."
+92,7/26/10 0:00,12/31/99 0:00,Y,02I,Food prepared from ingredients at ambient temperature not cooled to 41º F or below within 4 hours.
+94,7/26/10 0:00,12/31/99 0:00,Y,02J,Reduced oxygen packaged (ROP) foods not cooled by an approved method whereby the internal food temperature is reduced to 38º F within two hours of cooking and if necessary further cooled to a temperature of 34º F within six hours of reaching 38º F.
+101,7/26/10 0:00,12/31/99 0:00,Y,03A,Food from unapproved or unknown source or home canned. Reduced oxygen packaged (ROP) fish not frozen before processing; or ROP foods prepared on premises transported to another site.
+108,7/26/10 0:00,12/31/99 0:00,Y,03B,"Shellfish not from approved source, improperly tagged/labeled; tags not retained for 90 days."
+115,7/26/10 0:00,12/31/99 0:00,Y,03C,"Eggs found dirty/cracked; liquid, frozen or powdered eggs not pasteurized."
+121,7/26/10 0:00,12/31/99 0:00,Y,03D,"Canned food product observed swollen, leaking or rusted, and not segregated from other consumable food items ."
+127,7/26/10 0:00,12/31/99 0:00,Y,03E,Potable water supply inadequate. Water or ice not potable or from unapproved source.  Cross connection in potable water supply system observed.
+133,7/26/10 0:00,12/31/99 0:00,Y,03F,Unpasteurized milk or milk product present.
+139,7/26/10 0:00,12/31/99 0:00,Y,03G,Raw food not properly washed prior to serving.
+140,3/24/03 0:00,2/17/05 0:00,Y,03H,Raw food not properly washed prior to serving.
+147,7/26/10 0:00,12/31/99 0:00,Y,04A,Food Protection Certificate not held by supervisor of food operations.
+154,7/26/10 0:00,12/31/99 0:00,Y,04B,"Food worker prepares food or handles utensil when ill with a disease transmissible by food, or have exposed infected cut or burn on hand."
+161,7/26/10 0:00,12/31/99 0:00,Y,04C,Food worker does not use proper utensil to eliminate bare hand contact with food that will not receive adequate additional heat treatment.
+168,7/26/10 0:00,12/31/99 0:00,Y,04D,"Food worker does not wash hands thoroughly after using the toilet, coughing, sneezing, smoking, eating, preparing raw foods or otherwise contaminating hands."
+175,7/26/10 0:00,12/31/99 0:00,Y,04E,"Toxic chemical improperly labeled, stored or used such that food contamination may occur."
+182,7/26/10 0:00,12/31/99 0:00,Y,04F,"Food, food preparation area, food storage area, area used by employees or patrons, contaminated by sewage or liquid waste."
+189,7/26/10 0:00,12/31/99 0:00,Y,04G,Unprotected potentially hazardous food re-served.
+195,7/26/10 0:00,12/31/99 0:00,Y,04H,"Raw, cooked or prepared food is adulterated, contaminated, cross-contaminated, or not discarded in accordance with HACCP plan."
+201,7/26/10 0:00,12/31/99 0:00,Y,04I,Unprotected food re-served.
+207,7/26/10 0:00,12/31/99 0:00,Y,04J,"Appropriately scaled metal stem-type thermometer or thermocouple not provided or used to evaluate temperatures of potentially hazardous foods during cooking, cooling, reheating and holding."
+213,7/26/10 0:00,12/31/99 0:00,Y,04K,Evidence of rats or live rats present in facility's food and/or non-food areas.
+219,7/26/10 0:00,12/31/99 0:00,Y,04L,Evidence of mice or live mice present in facility's food and/or non-food areas.
+225,7/26/10 0:00,12/31/99 0:00,Y,04M,Live roaches present in facility's food and/or non-food areas.
+231,7/26/10 0:00,12/31/99 0:00,Y,04N,"Filth flies or food/refuse/sewage-associated (FRSA) flies present in facility’s food and/or non-food areas. Filth flies include house flies, little house flies, blow flies, bottle flies and flesh flies. Food/refuse/sewage-associated flies include fruit flies, drain flies and Phorid flies."
+237,7/26/10 0:00,12/31/99 0:00,Y,04O,Live animals other than fish in tank or service animal present in facility's food and/or non-food areas.
+242,8/2/09 0:00,7/25/10 0:00,Y,04P,Other live animal present in facility's food and/or non-food areas.
+243,3/24/03 0:00,2/17/05 0:00,Y,04Q,Live animal present in facility.
+250,7/26/10 0:00,12/31/99 0:00,Y,05A,Sewage disposal system improper or unapproved.
+257,7/26/10 0:00,12/31/99 0:00,Y,05B,"Harmful, noxious gas or vapor detected. CO ~1 3 ppm."
+264,7/26/10 0:00,12/31/99 0:00,Y,05C,Food contact surface improperly constructed or located. Unacceptable material used.
+270,7/26/10 0:00,12/31/99 0:00,Y,05D,Hand washing facility not provided in or near food preparation area and toilet room. Hot and cold running water at adequate pressure to enable cleanliness of employees not provided at facility. Soap and an acceptable hand-drying device not provided.
+276,7/26/10 0:00,12/31/99 0:00,Y,05E,Toilet facility not provided for employees or for patrons when required.
+282,7/26/10 0:00,12/31/99 0:00,Y,05F,Insufficient or no refrigerated or hot holding equipment to keep potentially hazardous foods at required temperatures.
+288,7/26/10 0:00,12/31/99 0:00,Y,05G,Properly enclosed service/maintenance area not provided.
+294,7/26/10 0:00,12/31/99 0:00,Y,05H,"No facilities available to wash, rinse and sanitize utensils and/or equipment."
+300,7/26/10 0:00,12/31/99 0:00,Y,05I,Refrigeration used to implement HACCP plan not equipped with an electronic system that continuously monitors time and temperature.
+304,8/2/09 0:00,7/25/10 0:00,Y,05J,"Nuisance created or allowed to exist. Facility not free from unsafe, hazardous, offensive or annoying condition."
+311,7/26/10 0:00,12/31/99 0:00,Y,06A,Personal cleanliness inadequate. Outer garment soiled with possible contaminant.  Effective hair restraint not worn in an area where food is prepared.
+318,7/26/10 0:00,12/31/99 0:00,Y,06B,"Tobacco use, eating, or drinking from open container in food preparation, food storage or dishwashing area observed."
+325,7/26/10 0:00,12/31/99 0:00,Y,06C,"Food not protected from potential source of contamination during storage, preparation, transportation, display or service."
+332,7/26/10 0:00,12/31/99 0:00,Y,06D,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+339,7/26/10 0:00,12/31/99 0:00,Y,06E,"Sanitized equipment or utensil, including in-use food dispensing utensil, improperly used or stored."
+346,7/26/10 0:00,12/31/99 0:00,Y,06F,Wiping cloths soiled or not stored in sanitizing solution.
+350,7/26/10 0:00,12/31/99 0:00,Y,06G,HACCP plan not approved or approved HACCP plan not maintained on premises.
+353,7/26/10 0:00,12/31/99 0:00,Y,06H,Records and logs not maintained to demonstrate that HACCP plan has been properly implemented.
+355,7/26/10 0:00,12/31/99 0:00,Y,06I,Food not labeled in accordance with HACCP plan.
+362,7/26/10 0:00,12/31/99 0:00,Y,07A,Duties of an officer of the Department interfered with or obstructed.
+368,8/2/09 0:00,7/25/10 0:00,Y,07B,Food Temperature
+374,8/2/09 0:00,7/25/10 0:00,Y,07C,Food Source
+379,8/2/09 0:00,7/25/10 0:00,Y,07D,Food Protection
+384,8/2/09 0:00,7/25/10 0:00,Y,07E,Facility Design
+389,8/2/09 0:00,7/25/10 0:00,Y,07F,Personal Hygiene
+390,1/1/01 0:00,3/23/03 0:00,Y,07G,Sufficient refrigerated or hot holding equipment not provided to meet proper time and temperature requirements for potentially hazardous foods.
+391,1/1/01 0:00,3/23/03 0:00,Y,07H,Dimensions of mobile food unit exceed prescribed limits.
+392,1/1/01 0:00,3/23/03 0:00,Y,07I,"Nuisance created or allowed to exist. Facility not free from unsafe, hazardous, offensive or annoying condition."
+399,7/26/10 0:00,12/31/99 0:00,N,08A,Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.
+406,7/26/10 0:00,12/31/99 0:00,N,08B,"Covered garbage receptacle not provided or inadequate, except that garbage receptacle may be uncovered during active use. Garbage storage area not properly constructed or maintained; grinder or compactor dirty."
+413,7/26/10 0:00,12/31/99 0:00,N,08C,Pesticide use not in accordance with label or applicable laws. Prohibited chemical used/stored. Open bait station used.
+414,3/24/03 0:00,2/17/05 0:00,N,08D,"Ventilation system not provided, improperly installed or in disrepair."
+415,3/24/03 0:00,2/17/05 0:00,N,08E,Accurate thermometer not provided in refrigerated or hot holding equipment.
+416,3/24/03 0:00,2/17/05 0:00,N,08F,"Equipment not easily movable or sealed to floor, adjoining equipment, adjacent walls or ceiling. Aisle or workspace inadequate."
+417,3/24/03 0:00,2/17/05 0:00,N,08G,Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained.
+418,3/24/03 0:00,2/17/05 0:00,N,08H,Food service operation occurring in room used as living or sleeping quarters.
+419,3/24/03 0:00,2/17/05 0:00,N,08I,Minimum final rinse temperature of 170F or proper chemical and temperature levels not maintained in manual utensil washing operation.
+420,3/24/03 0:00,2/17/05 0:00,N,08J,Mechanical dishwasher not operated as per manufacturer's specifications (time/temperature/chemical concentration); machine defective.
+421,3/24/03 0:00,2/17/05 0:00,N,08K,"Immersion basket not provided, used or of incorrect size. Incorrect manual technique. Test kit and thermometer not provided or used. Improper drying practices."
+422,3/24/03 0:00,2/17/05 0:00,N,08L,"Single service item reused, improperly stored, dispensed; not used when required."
+423,3/24/03 0:00,2/17/05 0:00,N,08M,Detail not available in this format.
+430,7/26/10 0:00,12/31/99 0:00,N,09A,Canned food product observed dented and not segregated from other consumable food items.
+437,7/26/10 0:00,12/31/99 0:00,N,09B,Thawing procedures improper.
+444,7/26/10 0:00,12/31/99 0:00,N,09C,Food contact surface not properly maintained.
+450,8/2/09 0:00,7/25/10 0:00,N,09D,Food contact surface not properly maintained.
+452,3/24/03 0:00,2/17/05 0:00,N,09E,&quot;Alcohol and pregnancy&quot; warning sign not posted.
+454,3/24/03 0:00,2/17/05 0:00,N,09F,&quot;Wash hands&quot; sign not posted at hand wash facility.
+456,3/24/03 0:00,2/17/05 0:00,N,09G,"Resuscitation equipment: exhaled air resuscitation masks (adult &amp; pediatric), latex gloves, sign not posted."
+458,3/24/03 0:00,2/17/05 0:00,N,09H,Inspection report sign not posted.
+464,7/26/10 0:00,12/31/99 0:00,N,10A,"Toilet facility not maintained and provided with toilet paper, waste receptacle and self-closing door."
+470,7/26/10 0:00,12/31/99 0:00,N,10B,Plumbing not properly installed or maintained; anti-siphonage or backflow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly.
+476,7/26/10 0:00,12/31/99 0:00,N,10C,"Lighting inadequate; permanent lighting not provided in food preparation areas, ware washing areas, and storage rooms."
+482,7/26/10 0:00,12/31/99 0:00,N,10D,"Mechanical or natural ventilation system not provided, improperly installed, in disrepair and/or fails to prevent excessive build-up of grease, heat, steam condensation vapors, odors, smoke, and fumes."
+487,7/26/10 0:00,12/31/99 0:00,N,10E,Accurate thermometer not provided in refrigerated or hot holding equipment.
+492,7/26/10 0:00,12/31/99 0:00,N,10F,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+497,7/26/10 0:00,12/31/99 0:00,N,10G,Food service operation occurring in room used as living or sleeping quarters.
+502,7/26/10 0:00,12/31/99 0:00,N,10H,Proper sanitization not provided for utensil ware washing operation.
+507,7/26/10 0:00,12/31/99 0:00,N,10I,"Single service item reused, improperly stored, dispensed; not used when required."
+512,7/26/10 0:00,12/31/99 0:00,N,10J,"""Wash hands” sign not posted at hand wash facility."
+516,8/2/09 0:00,7/25/10 0:00,N,10K,"Immersion basket not provided, used or of incorrect size. Incorrect manual technique. Test kit and thermometer not provided or used. Improper drying practices."
+520,8/2/09 0:00,7/25/10 0:00,N,10L,"Single service item reused, improperly stored, dispensed; not used when required."
+521,8/2/09 0:00,7/25/10 0:00,N,10M,"Wash Hands"" sign not posted at hand wash facility"""
+525,7/1/08 0:00,8/1/09 0:00,N,11A,Permit not conspicuously displayed.
+529,7/1/08 0:00,8/1/09 0:00,N,11B,Manufacture of frozen dessert not authorized on Food Service Establishment permit.
+533,7/1/08 0:00,8/1/09 0:00,N,11C,Failure of event sponsor to exclude vendor without a current valid permit or registration.
+536,7/1/08 0:00,8/1/09 0:00,N,11D,"Choking first aid"" poster not posted.""Alcohol and Pregnancy"" Warning sign not posted. ""Wash hands"" sign not posted at hand wash facility. Resuscitation equipment: exhaled air resuscitation masks(adult & pediatric) latex gloves sign not posted. Inspection report sign not posted."""
+541,8/2/09 0:00,7/25/10 0:00,N,12A,ROP processing equipment not approved by DOHMH
+542,1/1/01 0:00,3/23/03 0:00,N,12B,Plumbing not properly installed or maintained; antisiphonage or backflow prevention device not provided where required; equipment or floor not properly drained; sewage disposal system in disrepair or not functioning properly.
+543,1/1/01 0:00,3/23/03 0:00,N,12C,Lighting inadequate. Fixture not shielded.
+544,1/1/01 0:00,3/23/03 0:00,N,12D,"Ventilation system not provided, improperly installed or in disrepair."
+545,1/1/01 0:00,3/23/03 0:00,N,12E,Accurate thermometer not provided in refrigerated or hot holding equipment.
+546,1/1/01 0:00,3/23/03 0:00,N,12F,"Equipment not easily movable or sealed to floor, adjoining equipment, adjacent walls or ceiling. Aisle or workspace inadequate."
+547,1/1/01 0:00,3/23/03 0:00,N,12G,Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained.
+548,1/1/01 0:00,3/23/03 0:00,N,12H,Food service operation occurring in room used as living or sleeping quarters.
+549,1/1/01 0:00,3/23/03 0:00,N,13A,Minimum final rinse temperature of 170F or proper chemical and temperature levels not maintained in manual utensil washing operation.
+550,1/1/01 0:00,3/23/03 0:00,N,13B,Mechanical dishwasher not operated as per manufacturer's specifications (time/temperature/chemical concentration); machine defective.
+551,1/1/01 0:00,3/23/03 0:00,N,13C,"Immersion basket not provided, used or of incorrect size. Incorrect manual technique. Test kit and thermometer not provided or used. Improper drying practices."
+552,1/1/01 0:00,3/23/03 0:00,N,13D,"Single service item reused, improperly stored, dispensed; not used when required."
+553,1/1/01 0:00,3/23/03 0:00,N,13E,Detail not available in this format.
+554,1/1/01 0:00,3/23/03 0:00,N,14A,&quot;Choking first aid&quot; poster not posted.
+555,1/1/01 0:00,3/23/03 0:00,N,14B,&quot;Alcohol and pregnancy&quot; warning sign not posted.
+556,1/1/01 0:00,3/23/03 0:00,N,14C,&quot;Wash hands&quot; sign not posted at hand wash facility.
+557,1/1/01 0:00,3/23/03 0:00,N,14D,"Resuscitation equipment: exhaled air resuscitation masks (adult &amp; pediatric), latex gloves, sign not posted."
+558,1/1/01 0:00,3/23/03 0:00,N,14E,Inspection report sign not posted.
+565,7/26/10 0:00,12/31/99 0:00,N,15A,Tobacco vending machine present where prohibited.
+572,7/26/10 0:00,12/31/99 0:00,N,15B,Tobacco vending machine placed less than 25 feet from entrance to premises.
+579,7/26/10 0:00,12/31/99 0:00,N,15C,"Tobacco vending machine not visible to the operator, employee or agent."
+586,7/26/10 0:00,12/31/99 0:00,N,15D,"Durable sign with license number, expiration date, and address and phone number not posted."
+593,7/26/10 0:00,12/31/99 0:00,N,15E,Out-of package sale of tobacco products observed.
+600,7/26/10 0:00,12/31/99 0:00,N,15F,Employee under the age of 18 selling tobacco products without direct supervision of an adult retail dealer or dealer.
+607,7/26/10 0:00,12/31/99 0:00,N,15G,Sale to minor observed.
+614,7/26/10 0:00,12/31/99 0:00,N,15H,Sign prohibiting sale of tobacco products to minors not conspicuously posted.
+621,7/26/10 0:00,12/31/99 0:00,N,15I,"""No Smoking” and/or 'Smoking Permitted” sign not conspicuously posted. Health warning not present on 'Smoking Permitted”"
+628,7/26/10 0:00,12/31/99 0:00,N,15J,Ashtray present in smoke-free area.
+635,7/26/10 0:00,12/31/99 0:00,N,15K,Operator failed to make good faith effort to inform smokers of the Smoke-free Act prohibition of smoking.
+642,7/26/10 0:00,12/31/99 0:00,N,15L,"Smoke free workplace smoking policy inadequate, not posted, not provided to employees."
+649,7/26/10 0:00,12/31/99 0:00,N,15M,Use of tobacco product on school premises (at or below the 12th grade level) observed.
+656,7/26/10 0:00,12/31/99 0:00,N,15N,Smoking permitted and/or allowed in smoking prohibited area under the operator’s control.
+660,7/26/10 0:00,12/31/99 0:00,N,15O,Sale of herbal cigarettes to minors observed.
+661,7/26/10 0:00,12/31/99 0:00,N,15P,No tobacco health warning and smoking cessation sign(s) are posted.
+662,7/26/10 0:00,12/31/99 0:00,N,15Q,Tobacco health warning and smoking cessation sign(s) are obstructed and/or not prominently displayed.
+663,7/26/10 0:00,12/31/99 0:00,N,15R,No large tobacco health warning and smoking cessation sign is posted where tobacco products are displayed; small sign(s) are not posted at each register or place of payment.
+664,7/26/10 0:00,12/31/99 0:00,Y,15S,Flavored tobacco products sold or offered for sale.
+665,7/26/10 0:00,12/31/99 0:00,Y,15T,Original label for tobacco products sold or offered for sale.
+669,7/26/10 0:00,12/31/99 0:00,N,16A,"A food containing artificial trans fat, with 0.5 grams or more of trans fat per serving, is being stored, distributed, held for service, used in preparation of a menu item, or served."
+673,7/26/10 0:00,12/31/99 0:00,N,16B,"The original nutritional fact labels and/or ingredient label for a cooking oil, shortening or margarine or food item sold in bulk, or acceptable manufacturer’s documentation not maintained on site."
+677,7/26/10 0:00,12/31/99 0:00,N,16C,"Caloric content not posted on menus, menu boards or food tags, in a food service establishment that is 1 of 15 or more outlets operating the same type of business nationally under common ownership or control, or as a franchise or doing business under the same name, for each menu item that is served in portions, the size and content of which are standardized."
+681,7/26/10 0:00,12/31/99 0:00,N,16D,"Posted caloric content on the menu(s), menu board(s), food tag(s) or stanchions adjacent to menu boards for drive-through windows deficient, in that the size and/or font for posted calories is not as prominent as the name of the menu item or its price."
+685,7/26/10 0:00,12/31/99 0:00,N,16E,"Caloric content range (minimum to maximum) not posted on menus and or menu boards for each flavor, variety and size of each menu item that is offered for sale in different flavors, varieties and sizes."
+689,7/26/10 0:00,12/31/99 0:00,N,16F,"Specific caloric content or range thereof not posted on menus, menu boards or food tags for each menu item offered as a combination meal with multiple options that are listed as single items."
+691,7/26/10 0:00,12/31/99 0:00,N,18A,"Current valid permit, registration or other authorization to operate establishment not available."
+693,7/26/10 0:00,12/31/99 0:00,N,18B,"Document issued by the Board of Health, Commissioner or Department unlawfully reproduced or altered."
+695,7/26/10 0:00,12/31/99 0:00,N,18C,"Notice of the Department of Board of Health mutilated, obstructed, or removed."
+697,7/26/10 0:00,12/31/99 0:00,N,18D,"Failure to comply with an Order of the Board of Health, Commissioner, or Department."
+699,7/26/10 0:00,12/31/99 0:00,N,18E,Failure to report occurrences of suspected food borne illness to the Department.
+701,7/26/10 0:00,12/31/99 0:00,N,18F,Permit not conspicuously displayed.
+703,7/26/10 0:00,12/31/99 0:00,N,18G,Manufacture of frozen dessert not authorized on Food Service Establishment permit.
+705,7/26/10 0:00,12/31/99 0:00,N,18H,Failure of event sponsor to exclude vendor without a current valid permit or registration.
+706,8/2/09 0:00,7/25/10 0:00,N,18I,"Choking first aid poster not posted. Alcohol and Pregnancy warning sign, inspection report sign; not posted. CPR sign not posted, equipment (resuscitation masks, adult & pediatric, latex gloves) not provided."
+707,7/26/10 0:00,12/31/99 0:00,N,20A,Food allergy information poster not conspicuously posted where food is being prepared or processed by food workers.
+708,7/26/10 0:00,12/31/99 0:00,N,20B,Food allergy information poster not posted in language understood by all food workers.
+709,7/26/10 0:00,12/31/99 0:00,N,20C,Food allergy poster does not contain text provided or approved by Department.
+710,7/26/10 0:00,12/31/99 0:00,N,20D,"“Choking first aid” poster not posted. “Alcohol and pregnancy” warning sign not posted. Resuscitation equipment: exhaled air resuscitation masks (adult & pediatric), latex gloves, sign not posted. Inspection report sign not posted."
+711,7/26/10 0:00,12/31/99 0:00,N,20E,Letter Grade or Grade Pending card not conspicuously posted and visible to passersby.
+712,7/26/10 0:00,12/31/99 0:00,N,20F,Current letter grade card not posted.
+713,7/26/10 0:00,12/31/99 0:00,Y,22A,"Nuisance created or allowed to exist. Facility not free from unsafe, hazardous, offensive or annoying conditions."
+714,7/26/10 0:00,12/31/99 0:00,N,22B,Toilet facility used by women does not have at least one covered garbage receptacle.
+715,7/26/10 0:00,12/31/99 0:00,Y,22C,"Bulb not shielded or shatterproof, in areas where there is extreme heat, temperature changes, or where accidental contact may occur."
+716,7/26/10 0:00,12/31/99 0:00,Y,22E,ROP processing equipment not approved by DOHMH.
+718,7/26/10 0:00,12/31/99 0:00,N,99B,Other general violation.
