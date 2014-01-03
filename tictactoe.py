@@ -1,3 +1,6 @@
+# Used the following post as a guideline for this program
+#http://forum.codecall.net/topic/50892-tic-tac-toe-in-python/
+
 def print_board():
 	for i in range(0,3):
 		for j in range(0,3):
